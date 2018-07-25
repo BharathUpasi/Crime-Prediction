@@ -10,3 +10,8 @@ Models Used:
 2. Decision Tree Classifier
 3. Linear Classification (GuassianNB)
 4. PCA
+
+Developer:
+1.Bharath Upasi.
+2.Rohit Chandulal Sharma.
+3.Samil Shah
